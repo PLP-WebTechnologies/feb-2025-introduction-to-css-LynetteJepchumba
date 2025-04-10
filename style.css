@@ -1,0 +1,71 @@
+
+body {
+    font-family: 'Verdana', sans-serif; 
+    margin: 0;
+    padding: 0;
+    background-image: url('pexels-enginakyurt-30663508.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    text-align: center;
+    color: white; 
+  }
+  
+  
+  header {
+    background-color: #1e90ff; /
+    padding: 20px;
+    border-bottom: 3px solid #228b22; 
+  }
+  
+  header h1 {
+    font-size: 2.5em;
+    margin: 0;
+  }
+  
+  header p {
+    font-size: 1.2em;
+    margin: 10px 0 0 0;
+    color: #fff; 
+  }
+  
+  
+  section {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(34, 139, 34, 0.8)
+    border: 1px solid #1e90ff; 
+    border-radius: 8px;
+  }
+  
+  section h2 {
+    color: #1e90ff; 
+    font-size: 1.8em;
+  }
+  
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px; 
+    border: 2px solid #1e90ff; 
+  }
+  
+  
+  footer {
+    margin-top: 20px;
+    background-color: #1e90ff; 
+    color: white;
+    padding: 10px;
+    border-top: 3px solid #228b22;
+  }
+  
+  footer a {
+    color: #228b22; /
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+  
